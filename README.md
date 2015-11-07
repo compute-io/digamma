@@ -4,10 +4,10 @@ digamma
 
 > Computes the [digamma function](https://en.wikipedia.org/wiki/Digamma_function).
 
-The [digamma function](https://en.wikipedia.org/wiki/Digamma_function) is defined as
+The [digamma function](https://en.wikipedia.org/wiki/Digamma_function) `ψ` is the logarithmic derivative of the [gamma function](https://en.wikipedia.org/wiki/Gamma_function), i.e.
 
 <div class="equation" align="center" data-raw-text="\psi(x) =\frac{d}{dx} \ln{\Gamma(x)}= \frac{\Gamma\,'(x)}{\Gamma(x)}. " data-equation="eq:digamma_function">
-	<img src="" alt="Equation of the digamma function.">
+	<img src="https://cdn.rawgit.com/compute-io/digamma/f45b8572ebf552ca7e55d0ce0ab3a485e6b8cbe5/docs/img/eqn.svg" alt="Equation of the digamma function.">
 	<br>
 </div>
 
