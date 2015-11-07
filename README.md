@@ -199,7 +199,7 @@ bool = ( mat === out );
 
 ## Implementation
 
-The function has been adapted from the implementation found in the Boost C++ library. See the Boost [documentation](http://www.boost.org/doc/libs/1_53_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/sf_gamma/digamma.html#math_toolkit.special.sf_gamma.digamma.implementation) about implementation details. Only the necessary parts for 17 significant digits were translated, as JavaScript floating-point numbers cannot the high-precision versions.
+The function has been adapted from the implementation found in the Boost C++ library. See the Boost [documentation](http://www.boost.org/doc/libs/1_53_0/libs/math/doc/sf_and_dist/html/math_toolkit/special/sf_gamma/digamma.html#math_toolkit.special.sf_gamma.digamma.implementation) about implementation details. Only the necessary parts for 17 significant digits were translated, as JavaScript floating-point numbers cannot handle the high-precision versions.
 
 ## Notes
 
