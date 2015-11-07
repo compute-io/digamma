@@ -6,7 +6,7 @@ digamma
 
 The [digamma function](https://en.wikipedia.org/wiki/Digamma_function) is defined as
 
-<div class="equation" align="center" data-raw-text="" data-equation="eq:digamma_function">
+<div class="equation" align="center" data-raw-text="\psi(x) =\frac{d}{dx} \ln{\Gamma(x)}= \frac{\Gamma\,'(x)}{\Gamma(x)}. " data-equation="eq:digamma_function">
 	<img src="" alt="Equation of the digamma function.">
 	<br>
 </div>
@@ -369,7 +369,7 @@ $ make view-cov
 
 ## Copyright
 
-Copyright &copy; 2014-2015. The [Compute.io](https://github.com/compute-io) Authors.
+Copyright &copy; 2015. The [Compute.io](https://github.com/compute-io) Authors.
 
 
 [npm-image]: http://img.shields.io/npm/v/compute-digamma.svg
